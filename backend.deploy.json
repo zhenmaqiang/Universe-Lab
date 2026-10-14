@@ -1,0 +1,6 @@
+{
+  "runtime": "python",
+  "entrypoint": "server.py",
+  "startCommand": "python server.py",
+  "port": 8000
+}
